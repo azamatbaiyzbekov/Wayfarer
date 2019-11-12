@@ -32,6 +32,12 @@ https://wayfarer-mern-frontend.herokuapp.com/
 
 -------------------------------------------------------------------------------------------
 
+#### Screenshots
+<img width="1205" alt="Screen Shot 2019-10-02 at 6 13 08 PM" src="https://user-images.githubusercontent.com/50389914/68652464-5dbade80-04de-11ea-8193-63160426dc44.png">
+
+
+
+
 #### Team
 - Jackson Herron
 - James Wang
